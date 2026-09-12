@@ -883,3 +883,7 @@ Click [here](http://slack.k8s.io) to sign up to the Kubernetes Slack org.
 - WebSeal: generates secrets in the browser: [https://socialgouv.github.io/webseal](https://socialgouv.github.io/webseal)
 - HybridEncrypt TypeScript implementation: [https://github.com/SocialGouv/aes-gcm-rsa-oaep](https://github.com/SocialGouv/aes-gcm-rsa-oaep)
 - [DEPRACATED] Sealed Secrets Operator: [https://github.com/disposab1e/sealed-secrets-operator-helm](https://github.com/disposab1e/sealed-secrets-operator-helm)
+
+## Operations checklist
+
+See [the operations guide](OPERATIONS.md) for focused validation and troubleshooting checks.
