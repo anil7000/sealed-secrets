@@ -44,7 +44,7 @@ credential. Do not print the resulting Kubernetes Secret to prove success.
 Keep only encrypted manifests and non-sensitive metadata in the repository.
 Scrub events and logs before sharing externally.
 
-## Development note
+## Attribution
 
-This troubleshooting guide was added with AI assistance. Upstream code,
+Upstream code,
 licenses and contributor attribution remain unchanged.
